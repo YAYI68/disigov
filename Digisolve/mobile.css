@@ -1,0 +1,125 @@
+/* Mobile View */
+
+
+
+@media (max-width: 1200px){
+    .footer-item li a {
+        font-size: 80%;
+    }
+    .section-header{
+        font-size: 300%;
+    }
+    
+    .contact-form{
+        margin: 2rem 20rem;
+        width:80%;
+    }
+    .all-package{
+        margin-left: 3rem;
+        margin-right: 3rem;      
+    }
+    .testimonies-page{
+        margin:0 3rem;
+    }
+     .brand-portfolio {
+         margin:0 2rem;
+     }
+     .gen-para{
+         font-size:1.2rem;
+     }
+     .services-row{
+         margin:0;
+     }
+     .services-row  h3{ 
+         font-size:1.5rem;
+     }
+     .about-header{
+         font-size:2rem;
+         font-weight:400;
+     }
+     .header-content h1{
+         font-size:3rem;
+         font-weight:500;
+     }
+
+}
+@media (max-width: 1023px){
+    .header-content h2{
+        font-size: 1.5rem;
+    }
+    .about-header{
+        font-size: 1.5rem;
+    }
+    .about-text{
+        font-size: 0.9rem;
+    }
+    .all-package{
+        margin-left: 2rem;
+        margin-right: 2rem;      
+    }
+    .package-text{
+        font-size: 0.8rem;
+    }
+    .package-price{
+        font-size:2rem;
+    }
+    .plan-info li{
+        font-size: 0.8rem;
+    }
+    .plan-info{
+        padding:5px;
+    }
+    .main-footer{
+        margin: 0 5rem;
+    }
+
+}
+
+@media (max-width: 768px){
+    .main-footer{
+        margin: 0 1rem;
+    }
+    .contact-form{
+        margin: 2rem 10rem;
+        width:80%;
+    }
+    .plan-package{
+        width:80%;
+    }
+    .check{
+        font-size:1.5rem;
+    }
+    .gen-header{
+        font-size:1.7rem;
+    }
+    .gen-para{
+        font-size:1rem;
+    }
+    .testimonies-header{
+        font-size:1rem;
+    }
+    .work-text{
+        font-size:0.6rem;
+    }
+    .service-col p{
+        font-size:0.8rem;
+        padding:2px;    
+    }
+    cite{
+        font-size:0.8rem;
+    }
+    .testimonies h2{
+        font-size:2rem;
+        margin-top: 3rem;
+        margin-bottom:2rem;
+        font-weight:300;
+    }
+    .about-logo{
+        width:90%;
+    }
+    .header-content h2 {
+        font-size: 1.2rem;
+    }
+
+
+}
