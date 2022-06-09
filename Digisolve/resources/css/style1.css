@@ -42,6 +42,10 @@ input[type=submit]
 	padding:10px 30px;
 	border-radius:200px;
 	display:inline-block;
+	-webkit-border-radius:200px;
+	-moz-border-radius:200px;
+	-ms-border-radius:200px;
+	-o-border-radius:200px;
 }
 
 
